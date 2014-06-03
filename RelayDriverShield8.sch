@@ -4359,7 +4359,7 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="43.18" y1="38.1" x2="43.18" y2="5.08" width="0.4064" layer="97" style="longdash"/>
 <text x="134.62" y="20.32" size="3.048" layer="94">Freetronics 8-Channel Relay Driver Shield</text>
 <text x="167.64" y="14.478" size="1.778" layer="94">V2.0 (2014-06-02)</text>
-<text x="134.62" y="14.478" size="1.778" layer="94">SKU: SH-RELAY8</text>
+<text x="134.62" y="14.478" size="1.778" layer="94">SKU: RELAY8</text>
 <text x="8.382" y="121.92" size="2.54" layer="94" ratio="12" rot="R90">Arduino Headers</text>
 <text x="137.16" y="62.738" size="1.778" layer="94">Power / Reset</text>
 <text x="41.402" y="50.8" size="2.54" layer="94" ratio="12" rot="R90">Arduino Headers</text>
